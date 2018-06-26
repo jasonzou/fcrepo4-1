@@ -6,4 +6,4 @@
 ## web app
 -	fcrepo-webapp
 ## fcrepo-metrics
-- This package provides functionality for capturing Fedora platform performance metrics using the http://metrics.codahale.com:Metrics library.
+- This package provides functionality for capturing Fedora platform performance metrics using the [Metrics](http://metrics.codahale.com) library.
