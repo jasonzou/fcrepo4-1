@@ -19,7 +19,7 @@ package org.fcrepo.kernel.api;
 
 /**
  * Convenience class with constants for commonly used Fedora types.
- *
+ * -j- why interface?
  * @author ajs6f
  * @since Apr 25, 2013
  */
