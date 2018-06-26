@@ -21,7 +21,7 @@
 /**
  * @author ajs6f
  * @since Jan 9, 2014
- * This package is for fcrepo kernel apis.
+ * -J- This package is for fcrepo kernel apis.
  */
 
 package org.fcrepo.kernel.api;
