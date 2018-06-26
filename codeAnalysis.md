@@ -17,8 +17,8 @@
 ## fcrepo-jms
 - Java Message Service 
   - AbstractJMSPublisher.java 	
-	- DefaultMessageFactory.java 	
-	- JMSEventMessageFactory.java 
-	- JMSQueuePublisher.java 	
-	- JMSTopicPublisher.java 	
-	- package-info.java
+  - DefaultMessageFactory.java 	
+  - JMSEventMessageFactory.java 
+  - JMSQueuePublisher.java 	
+  - JMSTopicPublisher.java 	
+  - package-info.java - org.fcrepo.jms
