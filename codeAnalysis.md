@@ -14,3 +14,11 @@
   - package-info.java - org.fcrepo.metrics
 ## fcrepo-kernel-modeshape
 - This package contains abstractions for FedoraResourceImpl types and some types and functionality for Transactions.
+## fcrepo-jms
+- Java Message Service 
+  - AbstractJMSPublisher.java 	
+	- DefaultMessageFactory.java 	
+	- JMSEventMessageFactory.java 
+	- JMSQueuePublisher.java 	
+	- JMSTopicPublisher.java 	
+	- package-info.java
