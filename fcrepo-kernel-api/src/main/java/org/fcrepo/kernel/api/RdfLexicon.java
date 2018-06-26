@@ -32,7 +32,7 @@ import com.google.common.collect.ImmutableSet;
 
 /**
  * A lexicon of the RDF properties that the fcrepo kernel (or close-to-core modules) use
- *
+ * -j- read from config?
  * @author ajs6f
  */
 public final class RdfLexicon {
