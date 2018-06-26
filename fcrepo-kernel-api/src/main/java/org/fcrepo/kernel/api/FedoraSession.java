@@ -25,8 +25,8 @@ import java.util.Map;
 import java.util.Optional;
 
 /**
- * The Fedora Session abstraction
- *
+ * The Fedora Session abstraction 
+ * -j- support transaction.
  * @author acoburn
  */
 public interface FedoraSession {
