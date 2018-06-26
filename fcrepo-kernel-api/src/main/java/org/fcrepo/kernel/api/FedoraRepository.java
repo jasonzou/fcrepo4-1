@@ -18,7 +18,9 @@
 package org.fcrepo.kernel.api;
 
 /**
- * The basic abstraction for a Fedora repository
+ * The basic abstraction for a Fedora repository 
+ * -j- Login to the repository/ Return FedoraSession? 
+ * -j- the name is confusing. Why not use Login?
  * @author acoburn
  */
 public interface FedoraRepository {
