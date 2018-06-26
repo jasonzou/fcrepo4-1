@@ -25,6 +25,7 @@ import org.apache.jena.rdf.model.Model;
 
 /**
  * A class of Collectors for use with RdfStreams
+ * -j- static? sington class?
  * @author acoburn
  * @since Dec 4, 2015
  */
