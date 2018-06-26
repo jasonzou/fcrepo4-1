@@ -1,3 +1,3 @@
 # Code Analysis
-## Config
-All configurations.
+## Configurations
+- fcrepo-configs - All configurations.
