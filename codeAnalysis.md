@@ -12,3 +12,5 @@
   - RegistryService.java 	
   - ReporterFactory.java 	
   - package-info.java - org.fcrepo.metrics
+## fcrepo-kernel-modeshape
+- This package contains abstractions for FedoraResourceImpl types and some types and functionality for Transactions.
